@@ -7,5 +7,6 @@ assignees: ''
 
 ---
 
-**Kullanıcı Bilgileri**
-Lütfen hatayı aldığınız kullanıcının kullanıcı adını veya kulladınıcı ID'sini ekleyin.
+### Kullanıcı Bilgileri
+_Lütfen hatayı aldığınız kullanıcının kullanıcı adını veya kulladınıcı ID'sini ekleyin._
+**Kullanıcı Adı veya Kullanıcı ID: **
